@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nordic Hanoi - Fine Dining",
+  "description": "An elegant restaurant web application for Nordic Hanoi, featuring a beautiful menu, interactive table reservation system, photo gallery, and contact information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
